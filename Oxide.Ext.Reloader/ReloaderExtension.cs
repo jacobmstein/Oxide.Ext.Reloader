@@ -12,7 +12,7 @@
 
         public override string Name => "Reloader";
 
-        public override string Author => "Jacob (GitHub/jacobmstein)";
+        public override string Author => "Jacob Stein";
 
         public override VersionNumber Version => new VersionNumber(
             (ushort) Assembly.GetExecutingAssembly().GetName().Version.Major,
